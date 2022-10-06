@@ -1,7 +1,12 @@
+import Home from "./pages/Home"
+import { GlobalStyle } from "./styles/global";
+
+
 const App = () => {
   return (
     <>
-      <div className="App"></div>
+      <GlobalStyle />
+      <Home />
     </>
   );
 };
