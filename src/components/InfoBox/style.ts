@@ -17,6 +17,8 @@ export const InfoBoxContent = styled.div`
     flex-direction: row;
     text-align: left;
     height: 10rem;
+
+    margin-top: 1.5rem;
   }
 `;
 
@@ -53,15 +55,4 @@ export const DataContent = styled.div`
       border-right: 1.5px solid lightgrey;
     }
   }
-`;
-
-export const StyledInput = styled.input`
-  flex: 1;
-  height: 100%;
-  background: transparent;
-  margin-left: 0.2rem;
-  border: 2px solid transparent;
-  border-bottom-right-radius: 10px;
-  color: gray;
-  font-size: 1rem;
 `;

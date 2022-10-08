@@ -24,9 +24,18 @@ export const AppContent = styled.div`
   width: 100%;
   padding: 5px;
   z-index: 999;
+  margin-top: 10px;
 
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
+
+  h1 {
+    font-size: 1.3rem;
+    color: white;
+    @media (min-width: 768px) {
+      font-size: 2rem;
+    }
+  }
 `;
