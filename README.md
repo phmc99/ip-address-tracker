@@ -8,7 +8,7 @@
 Essa aplicação apresenta dados geográficos de um determinado IP ou Domínio num mapa dinâmico.
 
 ### Apresentação em vídeo
-[Vídeo publicado no Linkedin](https://www.linkedin.com/posts/phmc99_react-ui-desenvolvimento-activity-6845832866308345856-e-Zx?utm_source=share&utm_medium=member_desktop)
+[Vídeo publicado no Youtube](https://youtu.be/toLpDp1iQJU)
 
 ## 🔨 Implementações
 
